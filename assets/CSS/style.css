@@ -205,6 +205,7 @@ margin-bottom: 50px;}
     column-count: 3;}
 }
 
+/* small screen size */
 @media screen and (max-width:800px) {
     #photos {
         column-count: 2;}
